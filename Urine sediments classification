@@ -1,0 +1,12 @@
+here I want to share the project I have done which is urine sediments classification using the data:
+"""
+Urine sediment examination (USE) is one of the main tests used in the evaluation of diseases such as kidney, urinary, metabolic, and diabetes
+and to determine the density and number of various cells in the urine. USE's manual microscopy is a labor-intensive and time-consuming, imprecise, subjective process.
+Recently, automatic analysis of urine sediment has become inevitable in the medical field. In this study, 
+we propose a dataset that can be used by artificial intelligence techniques to automatically identify particles in urine sediment images.
+The data set consists of 8509 particle images obtained by examining the particles in the urine sediment obtained from 409 patients
+from the Biochemistry Clinics of Elazig Fethi Sekin Central Hospital. 
+Particle images are collected in 8 classes in total and these are Erythrocyte, Leukocyte, Epithelial, Bacteria, Yeast, Cylinders, Crystals, and others (sperm, etc.).
+"""
+I used 3 diffrent pre-trained model and I apply several technics to try to evaluate
+here is the project link to check:"""https://colab.research.google.com/drive/1JaIQ_S-d3NpgMmH_nFuiyO8Dl7YT9TwF?usp=sharing"""
